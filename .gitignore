@@ -1,0 +1,71 @@
+# Core LaTeX auxiliary files
+mdpi.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.cb
+*.cb2
+
+# Bibliography
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Index / glossary
+*.idx
+*.ilg
+*.ind
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+
+# Cross-references / hyperlinks
+*.nav
+*.snm
+*.vrb
+
+# SyncTeX (editor linkage)
+*.synctex.gz
+*.synctex(busy)
+
+# TikZ / externalization
+*.tikz
+*.md5
+
+# Latexmk / arara / build tools
+*.latexmkß
+*.dep
+
+# Temporary files
+*.tmp
+*.temp
+.tmp*
+_context
+.fuse*
+.venv/ß
+
+# Output directories (optional, if used)
+build/
+out/
+dist/
+_context/
+.agent_tmp/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+Icon*
+Icon?
+Icon[[:return:]]
